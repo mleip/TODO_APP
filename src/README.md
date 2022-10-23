@@ -34,3 +34,5 @@ Die API ist lokal auf dem Port 5000 erreichbar: http://localhost:5000
 
 Die Implementierung erfolgt ausschließlich in der `app.js`. In dieser Datei sind alle notwendigen TODOs
 beschrieben. Nutzen Sie die Dokumentation unter https://docs.api.techstarter.dev/ für genauere Informationen.
+
+zudem habe ich noch mit electron die app zu einer Windows-Apllication gemacht 
